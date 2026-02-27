@@ -1,0 +1,7 @@
+server:
+  port: 8080
+
+nasa:
+  api:
+    base-url: https://api.nasa.gov
+    key: tgXrz8XpExh5JKb8HUIaR2gmK1VpdOrcYKzdzqoM
