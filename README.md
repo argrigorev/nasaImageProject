@@ -22,7 +22,7 @@
 
 2. В src/main/resources/application.properties: nasa.api.key=ВАШ_КЛЮЧ
 
-3. Запустить командой ./gradlew test или с помощью кнопки в IDE
+3. Запустить командой ./gradlew bootRun или с помощью кнопки в IDE, открыть http://localhost:8080/api/nasa/image
 
 * Запустить тесты можно командой ./gradlew test или с помощью кнопки в IDE
 
